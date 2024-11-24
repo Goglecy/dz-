@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+    background-color: aqua;
+}
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #45a049;
+}
+.seasons-button {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.months-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.months-container button {
+    background-color: #008CBA;
+}
+.months-container button:hover {
+    background-color: #a81919;
+}
