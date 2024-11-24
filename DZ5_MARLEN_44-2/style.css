@@ -1,0 +1,24 @@
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        background-color: rgb(168, 177, 220);
+    }
+    .container {
+        text-align: center;
+    }
+    .clicker {
+        margin: 20px 0;
+    }
+    button {
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    .clicker p {
+        color: white
+    }
+    #collectButton{
+        color: white ;
+        background-color: #a81919;
+        border-radius: 10px;
+    }
